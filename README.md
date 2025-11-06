@@ -1,12 +1,16 @@
+![Cheese Hunter Header](Header.png)
+
 # 🧀 Cheese Hunter
 
 An exciting 2D platform game! Collect cheese while escaping from cats, buy powerful abilities, and try to reach the mouse hole!
 
 ## 🎬 Gameplay Video
 
-*Gameplay video will be added soon! Experience the exciting world of Cheese Hunter where you collect cheese, escape from cats, and use powerful abilities.*
+[![Watch Cheese Hunter Gameplay](Header.png)](https://youtu.be/3dSSY1YgsLw)
 
-> **Note**: Due to file size limitations, the gameplay video is not included in the repository. You can download and run the game to experience it yourself!
+**[🎮 Watch Full Gameplay on YouTube](https://youtu.be/3dSSY1YgsLw)**
+
+*Experience the exciting world of Cheese Hunter! See how to collect cheese, escape from cats, and use powerful abilities in action.*
 
 ## 🎮 About the Game
 
