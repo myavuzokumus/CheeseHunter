@@ -1,5 +1,3 @@
-![Cheese Hunter Header](Header.png)
-
 # 🧀 Cheese Hunter
 
 An exciting 2D platform game! Collect cheese while escaping from cats, buy powerful abilities, and try to reach the mouse hole!
