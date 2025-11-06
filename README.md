@@ -2,6 +2,12 @@
 
 An exciting 2D platform game! Collect cheese while escaping from cats, buy powerful abilities, and try to reach the mouse hole!
 
+## 🎬 Gameplay Video
+
+*Gameplay video will be added soon! Experience the exciting world of Cheese Hunter where you collect cheese, escape from cats, and use powerful abilities.*
+
+> **Note**: Due to file size limitations, the gameplay video is not included in the repository. You can download and run the game to experience it yourself!
+
 ## 🎮 About the Game
 
 Cheese Hunter is a fun survival game developed with Unity. The player, as a mouse, collects cheese while escaping from cats, purchases powerful abilities from the market system, and ultimately tries to win the game by reaching the mouse hole.

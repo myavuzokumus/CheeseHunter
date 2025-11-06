@@ -11,6 +11,9 @@
 /[Uu]ser[Ss]ettings/
 /[Pp]ackages/
 
+# Large video files
+*.mp4
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
